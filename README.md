@@ -6,6 +6,9 @@ A comprehensive web-based terminal interface for managing Lightning Network node
 
 ![Lightning Terminal Interface](https://img.shields.io/badge/Lightning-Network-orange) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 
+<img width="844" height="419" alt="image" src="https://github.com/user-attachments/assets/bbe4e678-5cb4-49aa-b9d9-76326d084921" />
+
+
 ## 🚀 Features
 
 ### Multi-Node Management
