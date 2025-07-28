@@ -98,6 +98,9 @@ npm start
    - Network type (mainnet/testnet/signet)
    - Macaroon file (upload .macaroon file)
    - TLS Certificate (optional for CA-signed certificates)
+  
+   - <img width="197" height="383" alt="image" src="https://github.com/user-attachments/assets/2850a47d-2739-4ebc-9089-f5af1a28aac7" />
+
 
 3. **Test Connection**: Verify connectivity before saving
 4. **Activate Connection**: Select the connection for command execution
