@@ -1,4 +1,4 @@
-# Lightning Terminal Interface
+# Taproot Assets Interface
 
 EXPECT BUGS!!!!!!! NOT PRODUCTION READY.
 
