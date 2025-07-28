@@ -1,5 +1,7 @@
 # Lightning Terminal Interface
 
+EXPECT BUGS!!!!!!! NOT PRODUCTION READY.
+
 A comprehensive web-based terminal interface for managing Lightning Network nodes through Taproot Assets Protocol (TAP) and Lightning Terminal (LIT) CLI commands. Features multi-node connection management, command execution, and secure data handling with enterprise-grade encryption.
 
 ![Lightning Terminal Interface](https://img.shields.io/badge/Lightning-Network-orange) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
